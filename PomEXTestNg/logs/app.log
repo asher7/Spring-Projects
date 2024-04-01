@@ -1,0 +1,171 @@
+[INFO ] 2023-08-28 10:13:10.547 [main] EventListener - Before calling method: get on target: {}
+[INFO ] 2023-08-28 10:13:10.589 [main] EventListener - Before calling WebDriver method: get
+[INFO ] 2023-08-28 10:13:10.599 [main] EventListener - Before navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:13:16.347 [main] EventListener - After navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:13:16.347 [main] EventListener - After calling WebDriver method: get
+[INFO ] 2023-08-28 10:13:16.347 [main] EventListener - After calling method: get on target: {}
+[INFO ] 2023-08-28 10:13:16.349 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:13:16.349 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:13:16.407 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:13:16.408 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:13:16.408 [main] EventListener - Before calling method: window on target: {}
+[INFO ] 2023-08-28 10:13:16.464 [main] EventListener - After calling method: window on target: {}
+[INFO ] 2023-08-28 10:13:16.464 [main] EventListener - Before calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:13:18.425 [main] EventListener - After calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:13:18.425 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:13:18.427 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:13:18.466 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:13:18.466 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:13:18.467 [main] EventListener - Before calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:13:18.515 [main] EventListener - After calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:13:18.516 [main] EventListener - Before calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:13:18.622 [main] EventListener - After calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:13:25.187 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:25.187 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:25.187 [main] EventListener - Before finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:13:25.591 [main] EventListener - After finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:13:25.591 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:25.591 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:25.592 [main] EventListener - Before calling method: click on target: {}
+[INFO ] 2023-08-28 10:13:27.519 [main] EventListener - After calling method: click on target: {}
+[INFO ] 2023-08-28 10:13:30.959 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:30.959 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:30.970 [main] EventListener - Before finding element by locator: By.xpath: //*[@id="email_create"]
+[INFO ] 2023-08-28 10:13:31.155 [main] EventListener - After finding element by locator: By.xpath: //*[@id="email_create"]
+[INFO ] 2023-08-28 10:13:31.155 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:31.155 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:31.156 [main] EventListener - Before calling method: sendKeys on target: {}
+[INFO ] 2023-08-28 10:13:31.974 [main] EventListener - After calling method: sendKeys on target: {}
+[INFO ] 2023-08-28 10:13:31.975 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:31.975 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:31.975 [main] EventListener - Before finding element by locator: By.cssSelector: #SubmitCreate
+[INFO ] 2023-08-28 10:13:32.054 [main] EventListener - After finding element by locator: By.cssSelector: #SubmitCreate
+[INFO ] 2023-08-28 10:13:32.054 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:13:32.054 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:13:32.055 [main] EventListener - Before calling method: click on target: {}
+[INFO ] 2023-08-28 10:13:32.292 [main] EventListener - After calling method: click on target: {}
+[INFO ] 2023-08-28 10:13:32.308 [main] EventListener - Before calling method: quit on target: {}
+[INFO ] 2023-08-28 10:13:32.309 [main] EventListener - Before calling WebDriver method: quit
+[INFO ] 2023-08-28 10:13:32.310 [main] EventListener - Before quitting WebDriver
+[INFO ] 2023-08-28 10:13:33.091 [main] EventListener - After quitting WebDriver
+[INFO ] 2023-08-28 10:13:33.091 [main] EventListener - After calling WebDriver method: quit
+[INFO ] 2023-08-28 10:13:33.092 [main] EventListener - After calling method: quit on target: {}
+[INFO ] 2023-08-28 10:14:45.864 [main] EventListener - Before calling method: get on target: {}
+[INFO ] 2023-08-28 10:14:45.950 [main] EventListener - Before calling WebDriver method: get
+[INFO ] 2023-08-28 10:14:45.958 [main] EventListener - Before navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:14:50.191 [main] EventListener - After navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:14:50.192 [main] EventListener - After calling WebDriver method: get
+[INFO ] 2023-08-28 10:14:50.192 [main] EventListener - After calling method: get on target: {}
+[INFO ] 2023-08-28 10:14:50.192 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:14:50.193 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:14:50.286 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:14:50.286 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:14:50.287 [main] EventListener - Before calling method: window on target: {}
+[INFO ] 2023-08-28 10:14:50.331 [main] EventListener - After calling method: window on target: {}
+[INFO ] 2023-08-28 10:14:50.332 [main] EventListener - Before calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:14:51.210 [main] EventListener - After calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:14:51.210 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:14:51.211 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:14:51.256 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:14:51.256 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:14:51.257 [main] EventListener - Before calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:14:51.326 [main] EventListener - After calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:14:51.327 [main] EventListener - Before calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:14:51.397 [main] EventListener - After calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:14:57.839 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:14:57.840 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:14:57.840 [main] EventListener - Before finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:14:57.946 [main] EventListener - After finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:14:57.946 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:14:57.947 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:14:57.947 [main] EventListener - Before calling method: click on target: {}
+[INFO ] 2023-08-28 10:14:59.978 [main] EventListener - After calling method: click on target: {}
+[INFO ] 2023-08-28 10:15:03.185 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:15:03.185 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:15:03.185 [main] EventListener - Before finding element by locator: By.xpath: //*[@id="email_create"]
+[INFO ] 2023-08-28 10:15:03.323 [main] EventListener - After finding element by locator: By.xpath: //*[@id="email_create"]
+[INFO ] 2023-08-28 10:15:03.324 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:15:03.325 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:15:03.325 [main] EventListener - Before calling method: sendKeys on target: {}
+[INFO ] 2023-08-28 10:15:04.024 [main] EventListener - After calling method: sendKeys on target: {}
+[INFO ] 2023-08-28 10:15:04.024 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:15:04.025 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:15:04.025 [main] EventListener - Before finding element by locator: By.cssSelector: #SubmitCreate
+[INFO ] 2023-08-28 10:15:04.147 [main] EventListener - After finding element by locator: By.cssSelector: #SubmitCreate
+[INFO ] 2023-08-28 10:15:04.148 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:15:04.148 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:15:04.148 [main] EventListener - Before calling method: click on target: {}
+[INFO ] 2023-08-28 10:15:04.361 [main] EventListener - After calling method: click on target: {}
+[INFO ] 2023-08-28 10:15:04.386 [main] EventListener - Before calling method: quit on target: {}
+[INFO ] 2023-08-28 10:15:04.386 [main] EventListener - Before calling WebDriver method: quit
+[INFO ] 2023-08-28 10:15:04.388 [main] EventListener - Before quitting WebDriver
+[INFO ] 2023-08-28 10:15:05.272 [main] EventListener - After quitting WebDriver
+[INFO ] 2023-08-28 10:15:05.272 [main] EventListener - After calling WebDriver method: quit
+[INFO ] 2023-08-28 10:15:05.272 [main] EventListener - After calling method: quit on target: {}
+[INFO ] 2023-08-28 10:22:42.550 [main] EventListener - Before calling method: get on target: {}
+[INFO ] 2023-08-28 10:22:42.557 [main] EventListener - Before calling WebDriver method: get
+[INFO ] 2023-08-28 10:22:42.565 [main] EventListener - Before navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:22:46.586 [main] EventListener - After navigating to URL: http://www.automationpractice.pl/index.php
+[INFO ] 2023-08-28 10:22:46.586 [main] EventListener - After calling WebDriver method: get
+[INFO ] 2023-08-28 10:22:46.586 [main] EventListener - After calling method: get on target: {}
+[INFO ] 2023-08-28 10:22:46.587 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:22:46.587 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:22:46.663 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:22:46.664 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:22:46.665 [main] EventListener - Before calling method: window on target: {}
+[INFO ] 2023-08-28 10:22:46.731 [main] EventListener - After calling method: window on target: {}
+[INFO ] 2023-08-28 10:22:46.731 [main] EventListener - Before calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:22:47.186 [main] EventListener - After calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:22:47.186 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:22:47.187 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:22:47.224 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:22:47.224 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:22:47.225 [main] EventListener - Before calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:22:47.268 [main] EventListener - After calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:22:47.269 [main] EventListener - Before calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:22:47.365 [main] EventListener - After calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:22:53.595 [main] EventListener - Before calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:22:53.595 [main] EventListener - Before calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:22:53.595 [main] EventListener - Before finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:22:53.695 [main] EventListener - After finding element by locator: By.cssSelector: .header_user_info a
+[INFO ] 2023-08-28 10:22:53.695 [main] EventListener - After calling WebDriver method: findElement
+[INFO ] 2023-08-28 10:22:53.695 [main] EventListener - After calling method: findElement on target: {}
+[INFO ] 2023-08-28 10:22:53.695 [main] EventListener - Before calling method: click on target: {}
+[INFO ] 2023-08-28 10:22:55.616 [main] EventListener - After calling method: click on target: {}
+[INFO ] 2023-08-28 10:23:00.812 [main] EventListener - Before calling method: quit on target: {}
+[INFO ] 2023-08-28 10:23:00.812 [main] EventListener - Before calling WebDriver method: quit
+[INFO ] 2023-08-28 10:23:00.819 [main] EventListener - Before quitting WebDriver
+[INFO ] 2023-08-28 10:23:01.739 [main] EventListener - After quitting WebDriver
+[INFO ] 2023-08-28 10:23:01.739 [main] EventListener - After calling WebDriver method: quit
+[INFO ] 2023-08-28 10:23:01.740 [main] EventListener - After calling method: quit on target: {}
+[INFO ] 2023-08-28 10:58:06.969 [main] EventListener - Before calling method: get on target: {}
+[INFO ] 2023-08-28 10:58:06.976 [main] EventListener - Before calling WebDriver method: get
+[INFO ] 2023-08-28 10:58:06.987 [main] EventListener - Before navigating to URL: chrome://downloads/
+[INFO ] 2023-08-28 10:58:08.917 [main] EventListener - After navigating to URL: chrome://downloads/
+[INFO ] 2023-08-28 10:58:08.917 [main] EventListener - After calling WebDriver method: get
+[INFO ] 2023-08-28 10:58:08.918 [main] EventListener - After calling method: get on target: {}
+[INFO ] 2023-08-28 10:58:08.918 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:58:08.918 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:58:08.973 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:58:08.973 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:58:08.974 [main] EventListener - Before calling method: window on target: {}
+[INFO ] 2023-08-28 10:58:09.038 [main] EventListener - After calling method: window on target: {}
+[INFO ] 2023-08-28 10:58:09.039 [main] EventListener - Before calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:58:10.107 [main] EventListener - After calling method: maximize on target: {}
+[INFO ] 2023-08-28 10:58:10.108 [main] EventListener - Before calling method: manage on target: {}
+[INFO ] 2023-08-28 10:58:10.109 [main] EventListener - Before calling WebDriver method: manage
+[INFO ] 2023-08-28 10:58:10.142 [main] EventListener - After calling WebDriver method: manage
+[INFO ] 2023-08-28 10:58:10.143 [main] EventListener - After calling method: manage on target: {}
+[INFO ] 2023-08-28 10:58:10.143 [main] EventListener - Before calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:58:10.232 [main] EventListener - After calling method: timeouts on target: {}
+[INFO ] 2023-08-28 10:58:10.233 [main] EventListener - Before calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:58:10.308 [main] EventListener - After calling method: implicitlyWait on target: {}
+[INFO ] 2023-08-28 10:58:17.962 [main] EventListener - Before calling method: executeScript on target: {}
+[INFO ] 2023-08-28 10:58:17.963 [main] EventListener - Before calling WebDriver method: executeScript
+[INFO ] 2023-08-28 10:58:17.963 [main] EventListener - Before executing JavaScript: document.querySelector("downloads-manager").shadowRoot.querySelector("#toolbar").shadowRoot.querySelector("#toolbar").shadowRoot.querySelector("#centeredContent").querySelector("#search").shadowRoot.querySelector("#searchInput").value='jdk'
+[INFO ] 2023-08-28 10:58:18.344 [main] EventListener - Before calling method: quit on target: {}
+[INFO ] 2023-08-28 10:58:18.344 [main] EventListener - Before calling WebDriver method: quit
+[INFO ] 2023-08-28 10:58:18.531 [main] EventListener - Before quitting WebDriver
+[INFO ] 2023-08-28 10:58:19.185 [main] EventListener - After quitting WebDriver
+[INFO ] 2023-08-28 10:58:19.185 [main] EventListener - After calling WebDriver method: quit
+[INFO ] 2023-08-28 10:58:19.185 [main] EventListener - After calling method: quit on target: {}
