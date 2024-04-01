@@ -1,0 +1,20 @@
+<!-- spring-config.xml -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Define the PlayerPojo bean with setter injection -->
+    <bean id="player" class="SpringIOC.SpringIOCExamples.PlayerPojo">
+        <property name="ranking" value="1" />
+        <property name="format">
+           <ref bean="formatRef" />
+        </property>
+        <property name="name" value="Kohli" />
+        <property name="catagory" value="Batsmen" />
+        <property name="age" value="33" />
+    </bean>
+     <bean class="SpringIOC.SpringIOCExamples.Format" name="formatRef">
+                <property name="format" value="Test King" />
+            </bean>
+</beans>
